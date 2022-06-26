@@ -1,9 +1,6 @@
 import 'dart:async';
-
 import 'package:flutter/material.dart';
-import 'package:flutter/rendering.dart';
 import 'package:perfect_freehand/perfect_freehand.dart';
-
 import "sketcher.dart";
 import "stroke.dart";
 import 'stroke_options.dart';
